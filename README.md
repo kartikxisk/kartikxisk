@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kartikxisk
-- 👀 I’m interested in 
+- 👀 I’m interested in frontend design
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me instagram @kartikxisk
