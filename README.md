@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kartikxisk
-- 👀 I’m interested in frontend design
+- 👀 I’m interested in UI/UX Design
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on frontend development
-- 📫 How to reach me instagram @kartikxisk
+- 💞️ I’m looking to collaborate on UI Design
+- 📫 you can reach me on instagram @kartikxisk
 
 <!---
 kartikxisk/kartikxisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
