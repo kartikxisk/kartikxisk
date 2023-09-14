@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on UI Design
 - 📫 you can reach me on instagram @kartikxisk
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kartikxisk}&theme={github_dark}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_dark
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={kartikxisk}&theme={github_dark}
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_dark
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kartikxisk)](https://github.com/ryo-ma/github-profile-trophy)
 
