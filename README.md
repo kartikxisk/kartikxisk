@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kartik Kumar
-- 👀 I’m interested in UI/UX Design
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on UI Design
 - 📫 you can reach me on instagram @kartikxisk
 
 
