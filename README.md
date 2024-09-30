@@ -50,15 +50,15 @@
 <div align="center">
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=kartikxisk" />
 </div>
-
+<br/>
 <div align="center">
    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_dark" />
 </div>
-
+<br/>
 <div align="center">
    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_dark" />
 </div>
-
+<br/>
 <!---
 kartikxisk/kartikxisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
