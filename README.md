@@ -43,15 +43,21 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kartikxisk&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikxisk" alt="kartikxisk" />
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kartikxisk)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=kartikxisk" />
+</div>
 
-![trophy](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_dark)
-
-![trophy](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_dark)
+<div>
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=kartikxisk" />
+</div>
+<div>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_dark" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_dark" />
+</div>
 
 <!---
 kartikxisk/kartikxisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
