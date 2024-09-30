@@ -52,9 +52,6 @@
 </div>
 
 <div>
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=kartikxisk" />
-</div>
-<div>
    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_dark" />
    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_dark" />
 </div>
