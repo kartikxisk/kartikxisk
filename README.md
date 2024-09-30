@@ -35,7 +35,6 @@
 
 ![trophy](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kartikxisk)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ❤️ Let's get connected:
 
@@ -52,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
 </div>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kartikxisk)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 kartikxisk/kartikxisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
