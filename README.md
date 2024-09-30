@@ -31,11 +31,6 @@
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
-![trophy](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_dark)
-
-![trophy](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_dark)
-
-
 ## ❤️ Let's get connected:
 
 <p><a href="https://soumyajit.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/soumyajit4419" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/soumyajit4419" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
@@ -51,7 +46,13 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=kartikxisk)](https://github.com/ryo-ma/github-profile-trophy)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=kartikxisk)](https://github.com/ryo-ma/github-profile-trophy)
+
+![trophy](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_dark)
+
+![trophy](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_dark)
+
 <!---
 kartikxisk/kartikxisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
