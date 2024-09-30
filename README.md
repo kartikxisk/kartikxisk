@@ -52,11 +52,11 @@
 </div>
 <br/>
 <div align="center">
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_dark" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_light" />
 </div>
 <br/>
 <div align="center">
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_dark" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_light" />
 </div>
 <br/>
 <!---
