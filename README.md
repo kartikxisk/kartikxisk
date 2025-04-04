@@ -1,8 +1,11 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Kartik Kumar</h1>
 
-- 👋 Hi, I’m Kartik Kumar
-- 🌱 I’m currently learning JavaScript
-- 📫 you can reach me on instagram @kartikxisk
+- 👋 Hi, I’m Kartik Kumar  
+- 💻 I’m a frontend developer with 2+ years of experience  
+- 🚀 Skilled in Next.js, Vue 3, and JavaScript  
+- 📫 You can reach me on:  
+  - Instagram: [@kartikxisk](https://www.instagram.com/kartikxisk)  
+  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kartikxisk)  
 
 
 ## 🛠️ Technologies and Tools I use:
@@ -26,7 +29,7 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+ <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-430098?style=flat-square&logo=vercel&logoColor=black" height="25px"/>
 </p>
 
 ## ❤️ Let's get connected:
