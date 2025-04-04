@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Kartik Kumar  
 - 💻 I’m a frontend developer with 2+ years of experience  
-- 🚀 Skilled in Next.js, Vue 3, and JavaScript  
+- 🚀 Skilled in JavaScript Reactjs, Next.js and Nuxtjs 3 (Composition API)   
 - 📫 You can reach me on:  
   - Instagram: [@kartikxisk](https://www.instagram.com/kartikxisk)  
   - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kartikxisk)  
