@@ -42,15 +42,16 @@
 </div>
 <br/>
 <div>
-   <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=kartikxisk" />
+   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kartikxisk" />
+</div>
+<br/>
+<div>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_dark" />
 </div>
 <br/>
 <div align="center">
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_dark" />
-</div>
-<br/>
-<div align="center">
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_dark" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=default" />
+   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=kartikxisk&theme=default&hide_border=false" />
 </div>
 <br/>
 <!---
