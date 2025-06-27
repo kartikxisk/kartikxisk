@@ -3,10 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Kumar</h1>
 
 - 💻 I’m a frontend developer with 2.5+ years of experience 
-- 🚀 Skilled in JavaScript Reactjs, Next.js and Nuxtjs 3 (Composition API)   
-- 📫 You can reach me on:  
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kartikxisk)  
-  - Instagram: [@kartikxisk](https://www.instagram.com/kartikxisk)  
+- 🚀 Skilled in JavaScript Reactjs, Next.js and Nuxtjs 3 (Composition API)
 
 
 ## 🛠️ Technologies and Tools I use:
@@ -31,7 +28,10 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://twitter.com/kartikxisk" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/kartikxisk/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/kartikxisk" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/kartikxisk/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>   </a>
+  <a href="https://twitter.com/kartikxisk" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>  
+  <a href="https://www.instagram.com/kartikxisk" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:
