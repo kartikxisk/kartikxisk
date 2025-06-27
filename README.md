@@ -2,16 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Kartik Kumar</h1>
 
-- 👋 Hi, I’m Kartik Kumar  
-- 💻 I’m a frontend developer with 2+ years of experience  
+- 💻 I’m a frontend developer with 2.5+ years of experience 
 - 🚀 Skilled in JavaScript Reactjs, Next.js and Nuxtjs 3 (Composition API)   
 - 📫 You can reach me on:  
-  - Instagram: [@kartikxisk](https://www.instagram.com/kartikxisk)  
   - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kartikxisk)  
+  - Instagram: [@kartikxisk](https://www.instagram.com/kartikxisk)  
 
 
 ## 🛠️ Technologies and Tools I use:
-
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
