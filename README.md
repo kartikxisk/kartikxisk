@@ -42,7 +42,7 @@
 </div>
 <br/>
 <div align="center">
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=kartikxisk" />
+   <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=kartikxisk" />
 </div>
 <br/>
 <div align="center">
