@@ -41,7 +41,7 @@
  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=kartikxisk&limit=5&theme=default&combine_all_yearly_contributions=true" />
 </div>
 <br/>
-<div align="center">
+<div>
    <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=kartikxisk" />
 </div>
 <br/>
