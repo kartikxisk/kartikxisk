@@ -52,6 +52,8 @@
 <div align="center">
    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=github_dark" />
 </div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kartikxisk&limit=5&theme=default&combine_all_yearly_contributions=true)
 <br/>
 <!---
 kartikxisk/kartikxisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
