@@ -35,10 +35,14 @@
 </p>
 
 ## 📊 My GitHub Data:
-
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kartikxisk&show_icons=true" />
- <img align="center" src="https://github-contributor-stats.vercel.app/api?username=kartikxisk&limit=5&theme=default&combine_all_yearly_contributions=true" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=default" />
+   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=kartikxisk&theme=default&hide_border=false" />
+</div>
+<br/>
+<div>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kartikxisk&show_icons=true" />
+ <img src="https://github-contributor-stats.vercel.app/api?username=kartikxisk&limit=5&theme=default&combine_all_yearly_contributions=true" />
 </div>
 <br/>
 <div>
@@ -47,11 +51,6 @@
 <br/>
 <div>
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikxisk&theme=github_dark" />
-</div>
-<br/>
-<div align="center">
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikxisk&theme=default" />
-   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=kartikxisk&theme=default&hide_border=false" />
 </div>
 <br/>
 <!---
