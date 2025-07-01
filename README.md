@@ -4,7 +4,6 @@
 - 💻 I’m a frontend developer with 2.5+ years of experience 
 - 🚀 Skilled in JavaScript Reactjs, Next.js and Nuxtjs 3 (Composition API)
 
-
 ## 🛠️ Technologies and Tools I use:
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
